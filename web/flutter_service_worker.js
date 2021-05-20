@@ -3,19 +3,18 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "95c7d93e08ba1b4c02cf9ea0bca3d72f",
-"index.html": "b2138f0fdd508c64a4c49c3134cb752f",
-"/": "b2138f0fdd508c64a4c49c3134cb752f",
-"main.dart.js": "b483a7fa3933e30b8ce286a43bee0970",
+  "version.json": "426313f2f3133c2f20415344c4a22df3",
+"index.html": "2520c16b81c26f9cc28396a8fc5c1086",
+"/": "2520c16b81c26f9cc28396a8fc5c1086",
+"main.dart.js": "033235060d69701c3a6db137ed55249c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"manifest.json": "e8f118ad897540e5f1589329a5d149fb",
-"assets/images/spooky_bg.jpg": "2a3faf8624d686830e18eabc4a0cd927",
-"assets/AssetManifest.json": "ee4c85b019fa8bf723d4c549d5bc1f7e",
+"manifest.json": "a83bbbd9d23ea4d752fbcd44cdc544fa",
+"assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/NOTICES": "c3f55cfdf861982de32ecde26f3cc775",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b14fcf3ee94e3ace300b192e9e7c8c5d",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1"
 };
 
